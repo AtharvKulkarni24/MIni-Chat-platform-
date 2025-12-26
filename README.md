@@ -124,13 +124,6 @@ This repo is a learning project — feel free to fork, open issues, or submit PR
 
 ## 📄 License
 
-Open source — use as you like. (Add a LICENSE file if you want a specific license.)
+Open source — use as you like.
 
 ---
-
-If you'd like, I can also:
-- Add a short demo GIF or screenshots and update the README
-- Add a `start` script to `package.json` (e.g., `"start": "node index.js"`)
-- Convert `created_at` to `Date` and format timestamps in the UI
-
-Would you like any of those improvements now? ✅
